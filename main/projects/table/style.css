@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Unbounded&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+body{
+	background: rgb(73,54,139);
+	background: linear-gradient(90deg, rgba(73,54,139,1) 14%, rgba(81,28,124,1) 48%, rgba(64,40,79,1) 76%);
+
+}
+p{
+	font-size: 40px;
+	font-weight: bold;
+	color: #48B3ED;                          
+	-webkit-text-stroke-width: 0.2px;
+	-webkit-text-stroke-color: cyan;
+	font-family: 'Comfortaa', cursive;
+}
+table{
+	border: double 5px #00E4FF;
+	width: 50%;
+}
+th{
+	border: solid 3px #AE00FF;
+	width: 25%;
+	height: 1cm;
+	font-size: 30px;
+	color: mediumvioletred;
+}
+td{
+	border: solid 2px #C07AE0;
+	width: 25%;
+	height: 1cm;
+	font-size: 20px;
+	color: #85E1DA;
+	font-weight: 400;
+	text-align: center;
+}
+td:hover{
+	color: #CDA5A5;
+	background-color: #7255D8;
+	font-size: 24px;
+}
+caption{
+	font-size: 50px;
+	color: hotpink;
+	text-shadow: 2px -2px blueviolet;
+}

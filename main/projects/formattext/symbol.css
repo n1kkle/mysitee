@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Unbounded&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+body{
+	background: rgb(79,45,94);
+	background: linear-gradient(90deg, rgba(79,45,94,1) 6%, rgba(23,56,161,1) 35%, rgba(79,40,63,1) 100%);
+}
+.first{
+	font-size: 40px;
+	font-weight: bold;
+	color: #48B3ED;                          
+	-webkit-text-stroke-width: 0.2px;
+	-webkit-text-stroke-color: cyan;
+	font-family: 'Comfortaa', cursive;	
+}
+
+.second{
+	font-size: 55px;
+	color: #249EDB;
+	-webkit-text-stroke-width: 0.5px;
+	-webkit-text-stroke-color: lightcyan;
+	font-family: 'Unbounded', cursive;
+}
+.third{
+	font-size: 40px;
+	color: #249EDB;
+	-webkit-text-stroke-width: 0.5px;
+	-webkit-text-stroke-color: lightcyan;
+	font-family: 'Comfortaa', cursive;
+	text-transform: uppercase;
+	text-shadow: 10px 10px 15px mediumpurple;
+}
+.big{
+	font-size: 80px;
+	font-weight: 900;
+	color: #000480;
+	-webkit-text-stroke-width: 0.2px;
+	-webkit-text-stroke-color: cyan;
+	font-family: 'Comfortaa', cursive;	
+}
+.fourth{
+	font-family: 'Unbounded', cursive;
+	color: #62BEDB;
+	font-size: 50px;
+	font-weight: 900;
+	text-shadow: 5px 5px mediumpurple;
+	text-decoration: underline;
+	text-decoration-color: #34BC70;
+	text-underline-position: under;
+}
+
